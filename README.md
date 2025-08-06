@@ -1,2 +1,2 @@
 # CCINSYSL-DF
-These are requirements for my Intelligence System course.
+These are requirements for my specialization in Digital Forensics course.
