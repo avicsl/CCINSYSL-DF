@@ -1,4 +1,4 @@
-def get_valid_score(prompt, max_score):
+def get_valid_score(prompt, max_score): 
     while True:
         try:
             score = float(input(prompt))
@@ -101,3 +101,4 @@ while True:
     if again == "no":
         print("\n👋 Program ended. Thank you!")
         break
+
