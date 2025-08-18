@@ -1,0 +1,101 @@
+timestamp,user_id,event_type,message,hour_of_day,day_of_week,is_weekend
+09:02.1,user_7,logout,logout event.,11,Monday,FALSE
+55:02.1,UNKNOWN,login,User logged in from IP 192.168.1.54,10,Monday,FALSE
+44:02.1,user_1,logout,logout event.,11,Monday,FALSE
+37:02.1,user_5,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_4.txt,11,Monday,FALSE
+28:02.1,user_3,logout,logout event.,10,Monday,FALSE
+42:02.1,user_6,login,User logged in from IP 192.168.1.144,10,Monday,FALSE
+30:02.1,user_3,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_4.txt,10,Monday,FALSE
+59:02.1,user_8,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+15:02.1,user_6,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+41:02.1,user_4,network_connection,UNKNOWN,10,Monday,FALSE
+31:02.1,user_8,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+40:02.1,user_5,logout,logout event.,11,Monday,FALSE
+27:02.1,user_9,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+56:02.1,user_6,logout,logout event.,10,Monday,FALSE
+38:02.1,user_1,logout,logout event.,11,Monday,FALSE
+39:02.1,user_9,login,User logged in from IP 192.168.1.104,10,Monday,FALSE
+57:02.1,user_7,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+12:02.1,UNKNOWN,logout,logout event.,11,Monday,FALSE
+08:02.1,user_1,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+03:02.1,user_10,network_connection,Connection to www.suspicious-site-2.com on port 8080,11,Monday,FALSE
+17:02.1,user_3,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+10:02.1,user_1,logout,logout event.,11,Monday,FALSE
+17:02.1,user_2,login,User logged in from IP 192.168.1.245,11,Monday,FALSE
+48:02.1,user_9,logout,logout event.,10,Monday,FALSE
+52:02.1,user_4,network_connection,Connection to www.suspicious-site-4.com on port 8080,10,Monday,FALSE
+33:02.1,user_6,login,User logged in from IP 192.168.1.203,11,Monday,FALSE
+51:02.1,user_3,logout,logout event.,10,Monday,FALSE
+29:02.1,user_1,logout,logout event.,11,Monday,FALSE
+29:02.1,UNKNOWN,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_4.txt,10,Monday,FALSE
+14:02.1,user_10,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,10,Monday,FALSE
+17:02.1,UNKNOWN,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+39:02.1,user_5,network_connection,Connection to www.suspicious-site-1.com on port 8080,11,Monday,FALSE
+23:02.1,user_10,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,11,Monday,FALSE
+06:02.1,user_10,logout,logout event.,11,Monday,FALSE
+13:02.1,user_2,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_2.txt,11,Monday,FALSE
+40:02.1,user_5,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,10,Monday,FALSE
+27:02.1,UNKNOWN,logout,logout event.,11,Monday,FALSE
+37:02.1,user_7,network_connection,Connection to www.suspicious-site-2.com on port 8080,10,Monday,FALSE
+09:02.1,user_7,logout,logout event.,10,Monday,FALSE
+23:02.1,user_3,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,10,Monday,FALSE
+16:02.1,user_5,network_connection,Connection to www.suspicious-site-1.com on port 8080,11,Monday,FALSE
+56:02.1,user_10,network_connection,Connection to www.suspicious-site-5.com on port 8080,10,Monday,FALSE
+34:02.1,user_3,login,User logged in from IP 192.168.1.11,10,Monday,FALSE
+12:02.1,UNKNOWN,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_3.txt,11,Monday,FALSE
+46:02.1,user_3,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_4.txt,10,Monday,FALSE
+44:02.1,user_1,login,User logged in from IP 192.168.1.86,10,Monday,FALSE
+28:02.1,user_8,logout,logout event.,10,Monday,FALSE
+47:02.1,user_10,logout,logout event.,10,Monday,FALSE
+00:02.1,user_2,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+53:02.1,user_3,network_connection,Connection to www.suspicious-site-5.com on port 8080,10,Monday,FALSE
+05:02.1,user_8,login,User logged in from IP 192.168.1.35,11,Monday,FALSE
+14:02.1,user_6,logout,logout event.,11,Monday,FALSE
+05:02.1,user_4,network_connection,Connection to www.suspicious-site-3.com on port 8080,11,Monday,FALSE
+45:02.1,UNKNOWN,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_1.txt,11,Monday,FALSE
+49:02.1,user_2,network_connection,Connection to www.suspicious-site-4.com on port 8080,10,Monday,FALSE
+36:02.1,user_7,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_1.txt,10,Monday,FALSE
+13:02.1,user_2,login,User logged in from IP 192.168.1.161,11,Monday,FALSE
+54:02.1,user_5,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+23:02.1,user_4,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,11,Monday,FALSE
+45:02.1,UNKNOWN,network_connection,Connection to www.suspicious-site-4.com on port 8080,11,Monday,FALSE
+25:02.1,user_6,login,User logged in from IP 192.168.1.142,10,Monday,FALSE
+07:02.1,user_7,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+30:02.1,user_9,network_connection,Connection to www.suspicious-site-4.com on port 8080,11,Monday,FALSE
+19:02.1,user_3,network_connection,Connection to www.suspicious-site-2.com on port 8080,11,Monday,FALSE
+16:02.1,user_6,file_access,UNKNOWN,10,Monday,FALSE
+00:02.1,user_6,logout,logout event.,11,Monday,FALSE
+33:02.1,user_3,login,User logged in from IP 192.168.1.180,10,Monday,FALSE
+15:02.1,user_4,network_connection,Connection to www.suspicious-site-1.com on port 8080,11,Monday,FALSE
+33:02.1,user_9,file_access,UNKNOWN,10,Monday,FALSE
+00:02.1,user_3,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+14:02.1,user_7,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_3.txt,11,Monday,FALSE
+08:02.1,user_2,login,User logged in from IP 192.168.1.4,10,Monday,FALSE
+29:02.1,user_6,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+27:02.1,user_2,logout,logout event.,10,Monday,FALSE
+16:02.1,user_10,network_connection,UNKNOWN,11,Monday,FALSE
+29:02.1,user_3,login,User logged in from IP 192.168.1.27,11,Monday,FALSE
+26:02.1,user_6,logout,logout event.,11,Monday,FALSE
+28:02.1,user_3,logout,logout event.,11,Monday,FALSE
+57:02.1,user_3,file_access,UNKNOWN,10,Monday,FALSE
+57:02.1,user_8,network_connection,Connection to www.suspicious-site-4.com on port 8080,10,Monday,FALSE
+12:02.1,UNKNOWN,login,User logged in from IP 192.168.1.243,11,Monday,FALSE
+41:02.1,user_6,network_connection,Connection to www.suspicious-site-2.com on port 8080,10,Monday,FALSE
+15:02.1,user_3,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+29:02.1,user_3,network_connection,Connection to www.suspicious-site-3.com on port 8080,11,Monday,FALSE
+01:02.1,user_4,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_5.txt,11,Monday,FALSE
+09:02.1,user_10,network_connection,Connection to www.suspicious-site-4.com on port 8080,11,Monday,FALSE
+12:02.1,user_7,login,User logged in from IP 192.168.1.146,10,Monday,FALSE
+17:02.1,user_1,network_connection,Connection to www.suspicious-site-2.com on port 8080,11,Monday,FALSE
+26:02.1,user_7,network_connection,Connection to www.suspicious-site-3.com on port 8080,11,Monday,FALSE
+27:02.1,user_5,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,11,Monday,FALSE
+14:02.1,user_5,login,User logged in from IP 192.168.1.254,11,Monday,FALSE
+35:02.1,user_3,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_3.txt,10,Monday,FALSE
+31:02.1,user_4,login,User logged in from IP 192.168.1.184,10,Monday,FALSE
+08:02.1,user_7,network_connection,Connection to www.suspicious-site-1.com on port 8080,11,Monday,FALSE
+13:02.1,user_4,login,User logged in from IP 192.168.1.108,10,Monday,FALSE
+33:02.1,UNKNOWN,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_1.txt,11,Monday,FALSE
+12:02.1,user_5,file_access,Accessed sensitive document path: /home/user_8/docs/private_file_1.txt,11,Monday,FALSE
+14:02.1,user_5,network_connection,Connection to www.suspicious-site-5.com on port 8080,10,Monday,FALSE
+07:02.1,user_2,email_sent,Email sent from Jane Doe to John Doe about Project X and the London office.,10,Monday,FALSE
+45:02.1,user_8,login,User logged in from IP 192.168.1.178,11,Monday,FALSE
